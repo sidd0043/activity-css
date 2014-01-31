@@ -1,0 +1,30 @@
+html {
+    font-family: helvetica, serif;
+}
+
+body {
+    background-color: #FFFF00
+}
+p,
+li,
+ol {
+    font-family:Helvetica, serif:
+}
+
+p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+
+li { color: #F00;
+}
+
+hr {
+    border-top: 4px solid #0000FF
+    border-bottom: 4px solid #F00
+}
+
+
+
+
